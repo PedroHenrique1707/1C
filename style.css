@@ -20,7 +20,7 @@ height: 5%;
 .conteiner-pai {
     position: relative;
     display: flex;
-    justify-self: unset space-around;
+    justify-content: space-around;
     align-items: center;
 }
 nav li{
